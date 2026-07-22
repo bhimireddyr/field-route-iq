@@ -2,7 +2,7 @@
 
 ## Module states
 
-- `pricing`: pending
+- `pricing`: implemented
 - `audit`: implemented
 - `settlement`: implemented
 
